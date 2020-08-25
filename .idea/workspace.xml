@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a6ff64d-fa52-4773-99a6-42fbdc699410" name="Default Changelist" comment="" />
+    <list default="true" id="4a6ff64d-fa52-4773-99a6-42fbdc699410" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/01_introduction/meta标签.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_introduction/文档的使用.html" beforeDir="false" afterPath="$PROJECT_DIR$/01_introduction/实体.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_introduction/标签的属性.html" beforeDir="false" afterPath="$PROJECT_DIR$/01_introduction/标签的属性.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_introduction/网页的基本结构.html" beforeDir="false" afterPath="$PROJECT_DIR$/01_introduction/网页的基本结构.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,16 +38,24 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1gSzsvjiM5vBjoSdcvZNDhBiIqy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -38,21 +70,53 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598122993625</updated>
-      <workItem from="1598122995531" duration="1297000" />
+      <workItem from="1598122995531" duration="4999000" />
+      <workItem from="1598383267807" duration="2570000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="149" y="50" key="SettingsEditor" timestamp="1598124685443">
+    <state x="364" y="239" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598206886460">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="149" y="50" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1598124685443" />
+    <state x="364" y="239" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.777@0.23.1280.777" timestamp="1598206886460" />
+    <state x="516" y="334" key="Github.ShareDialog" timestamp="1598125592020">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="516" y="334" key="Github.ShareDialog/0.23.1280.777@0.23.1280.777" timestamp="1598125592020" />
+    <state x="464" y="142" key="Github.UntrackedFilesDialog" timestamp="1598125600981">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="464" y="142" key="Github.UntrackedFilesDialog/0.23.1280.777@0.23.1280.777" timestamp="1598125600981" />
+    <state x="149" y="50" key="SettingsEditor" timestamp="1598383800866">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="149" y="50" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1598383800866" />
+    <state x="175" y="70" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1598385725415">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="175" y="70" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1280.777@0.23.1280.777" timestamp="1598385725415" />
     <state x="400" y="292" width="621" height="271" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1598124628809">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="400" y="292" width="621" height="271" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.23.1280.777@0.23.1280.777" timestamp="1598124628809" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1598205435124">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1598205435124" />
   </component>
 </project>
