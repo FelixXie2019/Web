@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>超链接2</title>
+</head>
+<body>
+    <!--
+        target属性，用来指定超链接打开的位置
+            可选值：
+                _self 默认值 在当前页面中打开超链接
+                _blank 在一个新的页面打开超链接
+    -->
+    <a href="列表.html" target="_self">超链接</a>
+    <br><br>
+    <a href="列表.html" target="_blank">超链接2</a>
+
+    <!--
+       可以直接将超链接的href属性设置为#，这样点击超链接后不会发生跳转，而是转到当前页面的顶部位置
+
+       id属性（唯一不重复）
+            每一个标签都可以添加一个id属性
+            id属性就是元素的唯一标识，同一个页面中不能出现重复的id属性
+
+       可以跳转到页面的指定位置，只需要将href属性设置为#目标元素的id属性值
+    -->
+    <br><br>
+    <a id="bottom" href="#">回到顶部</a>
+    <br><br>
+    <a href="#bottom">去底部</a>
+
+    <!--
+        在开发中，可以将#做为超链接路径的占位符使用
+    -->
+    <br><br>
+    <a href="#">这是一个新的超链接</a>
+
+    <!--
+        可以使用javascript:;来作为href的属性，此时这个超链接什么也不会发生
+    -->
+    <br><br>
+    <a href="javascript:;">这是一个超链接</a>
+
+
+
+</body>
+</html>
