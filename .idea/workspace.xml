@@ -20,32 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a6ff64d-fa52-4773-99a6-42fbdc699410" name="Default Changelist" comment="1">
-      <change afterPath="$PROJECT_DIR$/CSS/01_CSS简介.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/02_CSS语法.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/03_常用选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/04_复合选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/05_关系选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/06_属性选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/07_伪类选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/08_超链接伪类.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/path/相对路径.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/内联框架.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/列表.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/图片标签.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/语义化标签.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/语义化标签2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/语义化标签3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/超链接.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/超链接2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/音视频.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/09_伪元素选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/10_继承.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/11_选择器的权重.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_introduction/Firstweb.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Firstweb.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_introduction/SecondWeb.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/SecondWeb.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_introduction/meta标签.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/meta标签.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_introduction/实体.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/实体.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_introduction/标签的属性.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/标签的属性.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_introduction/网页的基本结构.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/网页的基本结构.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/08_超链接伪类.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/08_超链接伪类.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,10 +55,10 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -98,6 +77,7 @@
       <workItem from="1598122995531" duration="4999000" />
       <workItem from="1598383267807" duration="15869000" />
       <workItem from="1598574952422" duration="8871000" />
+      <workItem from="1599086608241" duration="3760000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1598387062734</created>
@@ -129,6 +109,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="184" y="99" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599087072941">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="184" y="99" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.828@0.23.1440.828" timestamp="1599087072941" />
     <state x="364" y="239" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598206886460">
       <screen x="0" y="23" width="1280" height="777" />
     </state>

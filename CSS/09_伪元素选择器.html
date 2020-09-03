@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>09_伪元素选择器</title>
+
+    <style>
+        p{
+            font-size:20px;
+        }
+        /*
+            伪元素：表示页面中一些特殊的并不真实的存在的元素（特殊的位置）
+                伪元素的使用 ::开头
+                ::first-letter 表示第一个字母
+                ::first-line 表示第一行
+                ::selection 表示选中的内容
+                ::before 表示元素的开始
+                ::after 表示元素的结束
+                    -before 和 after必须结合content属性来使用
+         */
+        p::first-letter{
+            font-size:50px;
+        }
+        p::first-line{
+            background-color: aqua;
+        }
+        p::selection{
+            color:red;
+        }
+        div::before{
+            content:'abc';
+            color:red;
+        }
+        div::after{
+            content:'abc';
+            color:blue;
+        }
+
+
+    </style>
+</head>
+<body>
+
+<p>People who don’t work hard don’t have the right to be envious of the people with talent. People fail because they don’t understand the hard work necessary to be successful</p>
+
+<div>Hello Hello How are you</div>
+
+</body>
+</html>

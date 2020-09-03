@@ -3,6 +3,42 @@
 <head>
     <meta charset="UTF-8">
     <title>08_超链接伪类</title>
+
+    <style>
+
+        /*
+            :link 用来表示没有访问过的链接（正常的链接）
+
+         */
+        a:link{
+            color:red;
+        }
+
+    /*
+        :visited 表示访问过的链接
+        由于隐私的原因，visited这个伪类只能修改链接的颜色
+    */
+        a:visited{
+            /*font-size:50px;  */
+            color:orange;
+        }
+
+    /*
+        ：hover 用来表示鼠标移入的状态
+    */
+        a:hover{
+            color:aqua;
+            font-size:50px;
+        }
+
+    /*
+        :active 用来表示鼠标点击
+    */
+        a:active{
+            color:yellowgreen;
+        }
+
+    </style>
    
 </head>
 <body>
@@ -16,7 +52,7 @@
 
 <br><br>
 
-<a href="https://www.baidu.com">未访问的链接</a>
+<a href="https://www.baidu1234.com">没访问的链接</a>
 
 </body>
 </html>
