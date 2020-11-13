@@ -1,0 +1,31 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url("https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1604906440245&di=f4c27fe8b7add901015d6c825502dbe6&imgtype=0&src=http%3A%2F%2Fpic1.win4000.com%2Fwallpaper%2F1%2F57f9aaddc3e47.jpg%3Fdown");
+}
+
+#login_bigbox{
+    margin: 0 auto;
+    margin-top: 200px;
+    padding: 20px 50px;
+    background-color: #00000090;
+    width: 400px;
+    height: 300px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.title h1{
+    color: white;
+}
+
+.username_input{
+    margin-top: 50px;
+}
+.password_input{
+    margin-top: 20px;
+}
+
+.login_button{
+    margin-top: 50px;
+}

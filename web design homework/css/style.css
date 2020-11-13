@@ -1,0 +1,84 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  div {
+    border: 1px solid black;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-auto-rows: minmax(35px, auto);
+    grid-template-areas: 
+    "logo     promo-1  promo-1  promo-1"
+    "logo     promo-1  promo-1  promo-1"
+    "home     home     home     home"
+    "promo-2  promo-2  promo-2  promo-2"
+    "product  product  product  product"
+    "product  product  product  product"
+    "product  product  product  product"
+    "product  product  product  product"
+    "main     news     news     promo-3"
+    "main     news     news     promo-3"
+    "main     news     news     promo-4"
+    "main     news     news     promo-4"
+    "main     customer customer promo-5"
+    "main     customer customer promo-5"
+    "promo-6  customer customer promo-5"
+    "legal    legal    legal    legal";
+  }
+  
+  .logo {
+    grid-area: logo;
+  }
+  
+  .promo-1 {
+    grid-area: promo-1;
+  }
+  
+  .home {
+    grid-area: home;
+  }
+  
+  .promo-2 {
+    grid-area: promo-2;
+  }
+  
+  .product {
+    grid-area: product;
+  }
+  
+  .main {
+    grid-area: main;
+  }
+  .news {
+    grid-area: news;
+  }
+  
+  .promo-3 {
+    grid-area: promo-3;
+  }
+  
+  .promo-4 {
+    grid-area: promo-4;
+  }
+  
+  .promo-6 {
+    grid-area: promo-6;
+  }
+  
+  .customer {
+    grid-area: customer;
+  }
+  
+  .promo-5 {
+    grid-area: promo-5;
+  }
+  
+  .legal {
+    grid-area: legal;
+  }

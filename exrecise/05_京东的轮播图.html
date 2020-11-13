@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        li{
+            list-style: none;
+        }
+        /* 设置图片的容器 */
+        .img-lists{
+            width: 590px;
+            height: 470px;
+            margin: 100px auto;
+            position: relative;
+            padding: 0px;
+        }
+        /* 修改图片的大小 */
+        .img-lists img{
+            width: 590px;
+            height: 470px; 
+        }
+
+        /* 设置li */
+        .img-lists li{
+            position: absolute;
+        }
+
+        /* 通过修改元素的层级来显示指定的图片 */
+        .img-lists li:nth-child(2){
+            z-index: 1;
+        }
+
+        /* 设置导航点的样式 */
+
+        .pointer{
+            position: absolute;
+            z-index: 999;
+            display: flex;
+            flex-direction: row;
+            bottom: 10px;
+            left: 30px;
+
+        }
+        .pointer a{           
+            width: 10px;
+            height: 10px;
+            background-color: rgba(255, 255, 255, .3);
+            border-radius: 50%;
+            margin: 0 2px;
+            border: 2px solid transparent;
+            background-clip: content-box;
+        }
+
+        .pointer a.active,
+        .pointer a:hover{
+            background-color: #fff;
+            border: 2px solid rgba(255, 255, 255, .3);
+        }
+        
+
+    </style>
+</head>
+<body>
+
+    <ul class="img-lists">
+        <li><a href="javascript:;"><img src="./img/05/1.jpg"></a></li>
+        <li><a href="javascript:;"><img src="./img/05/2.jpg"></a></li>
+        <li><a href="javascript:;"><img src="./img/05/3.jpg"></a></li>
+        <li><a href="javascript:;"><img src="./img/05/4.jpg"></a></li>
+        <li><a href="javascript:;"><img src="./img/05/5.jpg"></a></li>
+        <li><a href="javascript:;"><img src="./img/05/6.jpg"></a></li>
+        <li><a href="javascript:;"><img src="./img/05/7.jpg"></a></li>
+        <li><a href="javascript:;"><img src="./img/05/8.jpg"></a></li>
+
+        <div class="pointer">
+            <a class="active" href="javascript:;"></a>
+            <a href="javascript:;"></a>
+            <a href="javascript:;"></a>
+            <a href="javascript:;"></a>
+            <a href="javascript:;"></a>
+            <a href="javascript:;"></a>
+            <a href="javascript:;"></a>
+            <a href="javascript:;"></a>
+        </div>
+    </ul>
+    
+</body>
+</html>

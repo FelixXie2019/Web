@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+
+    body{
+        height: 3000px;
+    }
+
+    li{
+        list-style: none;
+    }
+
+    .nav{
+        width: 1210px;
+        height: 48px;
+        background-color: #E8E7E3;
+        margin: 100px auto;
+        padding: 0px;
+
+
+        /* 
+            粘滞定位
+                -当元素的position属性设置为sticky时则开启了元素的粘滞定位
+                -粘滞定位和相对定位的特点基本一致
+                    不同的是粘滞定位可以在元素到达某个位置时将其固定
+         */
+
+        position:sticky;
+        top: 0px;
+    }
+
+    .nav li{
+        float: left;
+        /* 将文字在父元素中垂直居中 */
+        line-height: 48px;
+    }
+
+    .nav a{
+        /* 将a转换为块元素 */
+        display: block;
+        text-decoration: none;
+        color: #777777;
+        font-size: 18px;
+        padding: 0 45px;
+    }
+
+    .nav a:hover{
+        background-color: #3F3F3F;
+        color: #E8E7E3;
+    }
+
+    .nav li:last-child a{
+        padding: 0 47px 0 48px;
+    }
+
+</style>
+</head>
+<body>
+
+<ul class="nav">
+    <li>
+        <a href="javascript:;">HTML/CSS</a>
+    </li>
+    <li>
+        <a href="javascript:;">Brower Side</a>
+    </li>
+    <li>
+        <a href="javascript:;">Server Side</a>
+    </li>
+    <li>
+        <a href="javascript:;">Programming</a>
+    </li>
+    <li>
+        <a href="javascript:;">XML</a>
+    </li>
+    <li>
+        <a href="javascript:;">Web Buliding</a>
+    </li>
+    <li>
+        <a href="javascript:;">Reference</a>
+    </li>
+</ul>
+
+
+
+
+</body>
+</html>
