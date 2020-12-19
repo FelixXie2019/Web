@@ -19,13 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a6ff64d-fa52-4773-99a6-42fbdc699410" name="Default Changelist" comment="1">
-      <change afterPath="$PROJECT_DIR$/CSS/09_伪元素选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/10_继承.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/11_选择器的权重.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/08_超链接伪类.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/08_超链接伪类.html" afterDir="false" />
-    </list>
+    <list default="true" id="4a6ff64d-fa52-4773-99a6-42fbdc699410" name="Default Changelist" comment="1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +50,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -78,6 +73,7 @@
       <workItem from="1598383267807" duration="15869000" />
       <workItem from="1598574952422" duration="8871000" />
       <workItem from="1599086608241" duration="3760000" />
+      <workItem from="1608394807687" duration="175000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1598387062734</created>
