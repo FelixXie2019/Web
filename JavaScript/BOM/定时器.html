@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{
+            padding: 0;
+            margin: 0;
+        }
+        #box1{
+            width: 100px;
+            height: 100px;
+            background-color: red;
+            position: absolute;
+            left: 0;
+        }
+    </style>
+    <script>
+
+        window.onload=function() {
+            var box1 = document.getElementById('box1');
+            var btn01 = document.getElementById('btn01');
+            var btn02 = document.getElementById('btn02');
+            var timer;
+            btn01.onclick = function () {
+                move(box1, 800, 10)
+            }
+            btn02.onclick = () => {
+                move(box1, 0, 10);
+
+            }
+        }
+
+        var timer;
+        //尝试创建一个可以执行简单动画的函数
+        function move(obj,target,speed){
+
+            //关闭上一个定时器
+            clearInterval(timer);
+
+            //获取元素目前的位置
+            var current=parseInt(getComputedStyle(obj,null).left);
+            //判断速度的正负值
+            //如果从0到800移动，则speed为正
+            //如果从800向0移动，则speed为负
+            if(current > target ){
+                speed =-speed;
+            }
+            timer=setInterval(()=>{
+                var oldValue=parseInt(getComputedStyle(obj,null).left);
+                //在旧值的基础上增加
+                var newValue=oldValue+speed;
+
+                //如果speed是负值，物体向左移动，需要判断newValue是否小于target
+                //如果speed是正值，物体向右移动，需要判断newValue是否大于target
+                if((speed<0&&newValue<target) || (speed >0 && newValue > target)){
+                    newValue=target;
+                }
+                obj.style.left=newValue+"px";
+
+                if(newValue==target){
+                    clearInterval(timer);
+                }
+            },30)
+        }
+
+
+        function getStyle(obj,name){
+            return getComputedStyle(obj,null)[name];
+        }
+
+    </script>
+</head>
+<body>
+    <button id="btn01">点击我往右移动div</button>
+    <button id="btn02">点击我往左移动div</button>
+</br></br>
+    <div id="box1"></div>
+    <div style="width: 0;height: 1000px;position: absolute;left: 800px;top: 0px;border: 1px solid black;"></div>
+
+    
+
+</body>
+</html>

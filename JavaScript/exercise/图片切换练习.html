@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        #outer{
+            width: 1200px;
+            margin: 50px auto;
+            background-color: #bfa;
+            padding: 10px;
+            text-align: center;
+        }        
+    </style>
+    <script>
+
+        window.onload=function(){
+
+            // 获取两个按钮
+            var prev=document.getElementById("prev");
+            var next=document.getElementById("next");            
+            
+
+            // 要切换图片就要修改img标签的src属性
+
+            // 获取img标签
+            var img=document.getElementsByTagName("img")[0];
+
+            var imgArr=["/exrecise/img/05/1.jpg","/exrecise/img/05/2.jpg","/exrecise/img/05/3.jpg",
+            "/exrecise/img/05/4.jpg","/exrecise/img/05/5.jpg","/exrecise/img/05/6.jpg","/exrecise/img/05/7.jpg","/exrecise/img/05/8.jpg"]
+
+            var index=0;
+
+
+            //提取p标签
+            var info=document.getElementById("info");
+            //设置提示文字
+            info.innerHTML="一共"+imgArr.length+"张图片，当前第"+(index+1)+"张";
+
+
+            // 分别为两个按钮绑定单击响应函数
+            prev.onclick=function(){
+                index--;
+                if(index<0){
+                   
+                    index=imgArr.length-1;                  
+                }
+                
+                img.src=imgArr[index];
+                info.innerHTML="一共"+imgArr.length+"张图片，当前第"+(index+1)+"张";
+                
+            }
+            next.onclick=function(){
+                index++;
+                if(index>imgArr.length-1){
+                    index=0; 
+               }
+               
+               img.src=imgArr[index];
+               info.innerHTML="一共"+imgArr.length+"张图片，当前第"+(index+1)+"张";
+        }
+        }
+
+
+    </script>
+</head>
+<body>
+    <div id="outer">
+        <p id="info"></p>
+        <img src="/exrecise/img/05/1.jpg" alt="热水器">
+        <button id="prev">上一张</button>
+        <button id="next">下一张</button>
+
+    </div>
+    
+    
+</body>
+</html>

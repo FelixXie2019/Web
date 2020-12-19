@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+
+        #box1{
+            width: 100px;
+            height: 100px;
+            background-color: red;
+        }
+
+    </style>
+    <script>
+
+        window.onload=function(){
+            /*
+                onkeydown
+                    -按键被按下
+                    -对于onkeydown来说，如果一直按着某个按键不放，那么事件会一直触发
+                    -当onkeydown连续触发时，第一次和第二次之间会间隔时间稍微长一点，其他的会很快
+                        这种设计是为了防止误操作的发生
+                onkeyup
+                    -按键被松开
+                
+                键盘事件一般都会绑定给一些可以获取到焦点的对象或者document
+            */
+        //    document.onkeydown=function(event){
+               /*
+                    可以通过keyCode来获取按键的编码
+                        通过它来判断哪个按键被按下
+                    除了keyCode,事件对象中还提供了几个属性
+                        altKey
+                        ctrlKey
+                        shiftKey
+
+               */
+              //判断一个y是否被按下
+              //判断y和ctrl是否被同时按下
+            //   if(event.keyCode===89&& event.ctrlKey){
+            //       console.log("y和ctrl都被按下了")
+            //   }
+            
+
+
+        //    }
+                var input=document.getElementsByTagName('input')[0];
+                input.onkeydown=function(event){
+                    event=event || window.event;
+                    //数字48-57
+                    //使文本框中不能输入数字
+                    if(event.keyCode>=48 && event.keyCode<=57){
+                        //取消默认行为，
+                        return false;
+                    }
+                }
+        }
+        
+
+    </script>
+</head>
+<body>
+
+    <div id="box1"></div>
+    <input type="text" name="" id="">
+    
+</body>
+</html>

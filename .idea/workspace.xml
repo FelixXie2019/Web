@@ -19,7 +19,23 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a6ff64d-fa52-4773-99a6-42fbdc699410" name="Default Changelist" comment="1" />
+    <list default="true" id="4a6ff64d-fa52-4773-99a6-42fbdc699410" name="Default Changelist" comment="1">
+      <change afterPath="$PROJECT_DIR$/JS Advance/day02/04_闭包/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/JSON.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/exercise/img/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/exercise/img/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/exercise/img/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/exercise/img/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/exercise/move.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/exercise/二级菜单.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/exercise/轮播图.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/类的操作.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jquery/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jquery/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/BOM/定时器.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/BOM/定时器.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +45,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -50,13 +67,17 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/JavaScript/exercise/img" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/JavaScript/exercise/img" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/JS Advance/day01" />
       <recent name="$PROJECT_DIR$/HTML" />
       <recent name="$PROJECT_DIR$/01_introduction" />
     </key>
@@ -73,7 +94,13 @@
       <workItem from="1598383267807" duration="15869000" />
       <workItem from="1598574952422" duration="8871000" />
       <workItem from="1599086608241" duration="3760000" />
-      <workItem from="1608394807687" duration="175000" />
+      <workItem from="1608394807687" duration="22025000" />
+      <workItem from="1608707407496" duration="28000" />
+      <workItem from="1608707492334" duration="44000" />
+      <workItem from="1608707601363" duration="5000" />
+      <workItem from="1608707650319" duration="2000" />
+      <workItem from="1608713282470" duration="18402000" />
+      <workItem from="1609254693785" duration="4890000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1598387062734</created>
@@ -82,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598387062734</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1">
+      <created>1608395117960</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608395117960</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,42 +138,8 @@
     <MESSAGE value="1" />
     <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="184" y="99" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599087072941">
-      <screen x="0" y="23" width="1440" height="828" />
-    </state>
-    <state x="184" y="99" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.828@0.23.1440.828" timestamp="1599087072941" />
-    <state x="364" y="239" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598206886460">
-      <screen x="0" y="23" width="1280" height="777" />
-    </state>
-    <state x="364" y="239" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.777@0.23.1280.777" timestamp="1598206886460" />
-    <state x="516" y="334" key="Github.ShareDialog" timestamp="1598125592020">
-      <screen x="0" y="23" width="1280" height="777" />
-    </state>
-    <state x="516" y="334" key="Github.ShareDialog/0.23.1280.777@0.23.1280.777" timestamp="1598125592020" />
-    <state x="464" y="142" key="Github.UntrackedFilesDialog" timestamp="1598125600981">
-      <screen x="0" y="23" width="1280" height="777" />
-    </state>
-    <state x="464" y="142" key="Github.UntrackedFilesDialog/0.23.1280.777@0.23.1280.777" timestamp="1598125600981" />
-    <state x="149" y="50" key="SettingsEditor" timestamp="1598383800866">
-      <screen x="0" y="23" width="1280" height="777" />
-    </state>
-    <state x="149" y="50" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1598383800866" />
-    <state x="241" y="145" key="Vcs.Push.Dialog.v2" timestamp="1598387076688">
-      <screen x="0" y="23" width="1280" height="777" />
-    </state>
-    <state x="241" y="145" key="Vcs.Push.Dialog.v2/0.23.1280.777@0.23.1280.777" timestamp="1598387076688" />
-    <state x="175" y="70" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1598412191859">
-      <screen x="0" y="23" width="1280" height="777" />
-    </state>
-    <state x="175" y="70" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1280.777@0.23.1280.777" timestamp="1598412191859" />
-    <state x="400" y="292" width="621" height="271" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1598124628809">
-      <screen x="0" y="23" width="1280" height="777" />
-    </state>
-    <state x="400" y="292" width="621" height="271" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.23.1280.777@0.23.1280.777" timestamp="1598124628809" />
-    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1598913954497">
-      <screen x="0" y="23" width="1280" height="777" />
-    </state>
-    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1598913954497" />
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

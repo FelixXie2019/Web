@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day1--表格演练</title>
+    <style>
+        #app{
+            width: 500px;
+            margin: 0 auto;
+        }
+        input{
+            width: 200px;  
+        }
+    </style>
+</head>
+<body>
+    <div id="app">
+        <input type="text" placeholder="添加数据" v-model="name">
+        <button @click="add" :disabled="name===''">添加</button>
+
+        <table border="1px" cellpadding="10" cellspacing="1">
+
+            <tr>
+                <th>编号</th>
+                <th>姓名</th>
+                <th>日期</th>
+                <th>操作</th>
+            </tr>
+            <tr v-for="(item,index) in list" :key="index">
+                <td>{{ index+1 }}</td>
+                <td>{{ item.name }}</td>
+                <td>{{ item.date }}</td>
+                <td>
+                    <button @click="del(index)">删除</button>
+                </td>
+            </tr>
+            <tr v-if="list.length===0">
+                <td colspan="4">没有数据</td>
+            </tr>
+        </table>
+    </div>
+    <script src="../vue.js"></script>
+    <script>
+
+    let vm=new Vue({
+        el:'#app',
+        data(){
+            return{
+            name:'',
+            list:[
+            {name:'lala',date:new Date()},
+            {name:'haha',date:new Date()},
+            {name:'gaga', date:new Date()}
+            ]
+            }
+        },
+        methods:{
+            // 添加数据
+            add(){
+                this.list.unshift({
+                    name:this.name,
+                    date:new Date()
+                })
+                // 重置输入框
+                this.name=''
+            },
+        // 删除数据
+        del(index){
+            if(confirm("确认是否删除！")){
+                this.list.splice(index,1)
+            }
+        }
+    }
+    })
+    </script> 
+</body>
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+
+        window.onload=function(){
+            var btn01=document.getElementById('btn01');
+
+            /*
+                使用对象.事件 = 函数 的形式绑定响应函数，
+                 它只能同时为一个元素的一个事件绑定一个响应函数
+                 不能绑定多个，如果绑定了多个，则后边的覆盖前边的
+
+
+                 addEventListener()
+                    -通过这个方法也可以绑定响应函数
+                    -可以同时为一个元素的相同事件同时绑定多个响应函数
+                      这样当事件被触发时，响应函数将会按照函数的绑定顺序执行
+
+            */
+            btn01.addEventListener("click",function(){
+                alert(1);
+                alert(2);
+            },false)
+        }
+
+    </script>
+</head>
+<body>
+
+    <button id="btn01">点我一下</button>
+
+</body>
+</html>
