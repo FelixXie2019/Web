@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #box1{
+            width: 200px;
+            height: 200px;
+            background-color: red;
+        }
+    </style>
+    <script>
+        window.onload=function(){
+            var box1=document.getElementById('box1');
+            var btn01=document.getElementById('btn01');
+            var btn02=document.getElementById('btn02');
+            btn02.onclick=function(){
+                box1.style.width="300px";
+            }
+            btn01.onclick=function(){
+                /*
+                    可以使用getComputedStyle()来获取元素的当前样式
+                        这个方法是window的方法，可以直接使用
+
+                    需要两个参数
+                        第一个：要获取样式的元素
+                        第二个：可以传递一个伪元素，一般都传null
+
+                    该方法会返回一个对象，对象中封装了当前元素对应的样式
+
+
+                */
+
+               alert(getComputedStyle(box1,null).width);
+            }
+        }
+
+        /*
+            定义一个函数，来获取指定元素的样式
+            参数：
+                obj 要获取样式的元素
+                name 要获取的样式名
+        */
+
+        function getStyle(obj,name){
+            
+            if(window.getComputedStyle){
+                //正常的浏览器
+            return getComputedStyle(obj,null)[name];
+            }else {
+            //ie8
+            return obj.currentStyle(name);
+            }
+        }
+    </script>
+</head>
+<body>
+
+    <div id="box1"></div>
+    <button id="btn02">修改样式</button>
+    <button id='btn01'>读取元素的样式</button>
+    
+</body>
+</html>

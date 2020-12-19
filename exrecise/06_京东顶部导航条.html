@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>京东顶部导航条</title>
+    <link rel="stylesheet" href="../font&background/css/all.css">
+    <style>
+
+        body{
+            margin: 0;
+        }
+
+        li{
+            list-style: none;
+        }
+        a{
+            text-decoration: none;
+        }
+
+        .clearfix::before,
+        .clearfix::after{
+            content: '';
+            display: table;
+            clear: both;
+        }
+        /* 设置外部容器的样式 */
+        .top-bar-wrapper{
+            width: 100%;
+            background-color:#E3E4E5;
+            /* 设置行高，没有设置高度，使文字垂直居中 */
+            line-height: 30px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        /* 设置内部容器的宽度 */
+        .top-bar{
+            width: 1190px;
+            /* 设置水平居中 */
+            margin: 0 auto;
+        }
+
+        /* 设置location */
+        .location{
+            float: left;
+        }
+
+        /* 设置shortcut */
+        .shortcut{
+            float: right;
+        }
+
+    </style>
+</head>
+<body>
+    <!-- 创建外围的容器 -->
+    <div class="top-bar-wrapper">
+        <!-- 创建内部的容器 -->
+        <div class="top-bar clearfix">
+            <!-- 左侧的菜单 -->
+            <div class="location ">
+                <div class="current-city">
+                    <a href="javascript:;">北京</a>
+                </div>
+            </div>
+            <!-- 右侧的菜单 -->
+            <div class="shortcut ">
+                <li>
+                    <a href="javascript:;">你好，请登录</a>
+                    <a href="javascript:;">免费注册</a>
+                </li>
+
+                <!-- 分割线 -->
+                <li class="line"></li>
+                <li>
+                    <a href="javascript:;">我的订单</a>
+                </li>
+                <li class="line"></li>
+                <li>
+                    <a href="javascript:;">我的京东</a>
+                    <i class="fas fa-angle-down"></i>
+                </li>
+                <li class="line"></li>
+                <li>
+                    <a href="javascript:;">京东会员</a>
+                </li>
+                <li class="line"></li>
+                <li>
+                    <a href="javascript:;">企业采购</a>
+                    <i class="fas fa-angle-down"></i>
+                </li>
+                <li class="line"></li>
+                <li>
+                    <span>客户服务</span>
+                    <i class="fas fa-angle-down"></i>
+                </li>
+                <li>
+                    <span>网站导航</span>
+                    <i class="fas fa-angle-down"></i>
+                </li>
+                <li>
+                    <span>手机京东</span>
+                    <i class="fas fa-angle-down"></i>
+                </li>
+
+            </div>
+
+
+
+        </div>
+    </div>
+
+    
+</body>
+</html>
