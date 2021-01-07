@@ -20,21 +20,96 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a6ff64d-fa52-4773-99a6-42fbdc699410" name="Default Changelist" comment="1">
-      <change afterPath="$PROJECT_DIR$/JS Advance/day02/04_闭包/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/JSON.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/exercise/img/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/exercise/img/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/exercise/img/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/exercise/img/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/exercise/move.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/exercise/二级菜单.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/exercise/轮播图.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/类的操作.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jquery/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jquery/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jquery/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jquery/pc项目/day01/work/jquery-1.12.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jquery/pc项目/jquery版本.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jquery/pc项目/jquery版本.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Web.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/BOM/定时器.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/BOM/定时器.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Layout/01_文档流.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Layout/02_盒子模型.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Layout/03_盒子模型-边框.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Layout/04_盒子模型-内边距.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Layout/05_盒子模型-外边距.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Layout/06_盒子的水平布局.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Layout/07_盒子的垂直方向的布局.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Layout/08_外边距的折叠.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Layout/09_行内元素的盒模型.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Layout/10_默认样式.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Float/01_网页的简单布局.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Float/02_高度塌陷.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Float/03_BFC.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Float/04_clear.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Float/05_高度塌陷最终方案.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Float/06_clearfix.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jquery/day01/js/jquery-1.10.1.min【更多课程，欢迎访问www.pr61.com或联系QQ1916079346获取】.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jquery/day01/js/jquery-1.10.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jquery/day01/js/jquery-1.10.1【更多课程，欢迎访问www.pr61.com或联系QQ1916079346获取】.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jquery/day01/js/jquery-1.10.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jquery/day01/js/jquery-1.12.3【更多课程，欢迎访问www.pr61.com或联系QQ1916079346获取】.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jquery/day01/js/jquery-1.12.3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jquery/day01/js/myLib【更多课程，欢迎访问www.pr61.com或联系QQ1916079346获取】.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jquery/day01/js/myLib.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jquery/day01/js/my_jQuery_plugin【更多课程，欢迎访问www.pr61.com或联系QQ1916079346获取】.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jquery/day01/js/my_jQuery_plugin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jquery/day01/练习/todo/06-todolist(jq原始版)【更多课程，欢迎访问www.pr61.com或联系QQ1916079346获取】.html" beforeDir="false" afterPath="$PROJECT_DIR$/Jquery/day01/练习/todo/06-todolist(jq原始版).html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jquery/day01/练习/todo/index【更多课程，欢迎访问www.pr61.com或联系QQ1916079346获取】.css" beforeDir="false" afterPath="$PROJECT_DIR$/Jquery/day01/练习/todo/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jquery/day01/练习/todo/jquery-1.11.1.min【更多课程，欢迎访问www.pr61.com或联系QQ1916079346获取】.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jquery/day01/练习/todo/jquery-1.11.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exrecise/01_图片列表.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exrecise/02.京东左侧导航条.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exrecise/03_网易新闻的右侧列表.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exrecise/04_w3导航条.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exrecise/05_京东的轮播图.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exrecise/06_京东顶部导航条.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exrecise/Login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exrecise/css/login_style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exrecise/img/05/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exrecise/img/05/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exrecise/img/05/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exrecise/img/05/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exrecise/img/05/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exrecise/img/05/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exrecise/img/05/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exrecise/img/05/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final homeworl/css/home.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final homeworl/css/javascript.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final homeworl/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final homeworl/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final homeworl/javascript.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final homeworl/js/home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final homeworl/js/javascript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font&amp;background/01_字体.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font&amp;background/02_图标字体.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font&amp;background/03_图标字体.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font&amp;background/04_行高.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font&amp;background/css/all.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font&amp;background/css/all.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font&amp;background/css/brands.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font&amp;background/css/brands.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font&amp;background/css/fontawesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font&amp;background/css/fontawesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font&amp;background/css/regular.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font&amp;background/css/regular.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font&amp;background/css/solid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font&amp;background/css/solid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font&amp;background/css/svg-with-js.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font&amp;background/css/svg-with-js.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font&amp;background/css/v4-shims.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font&amp;background/css/v4-shims.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font&amp;background/webfonts/fa-brands-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font&amp;background/webfonts/fa-brands-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font&amp;background/webfonts/fa-brands-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font&amp;background/webfonts/fa-brands-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font&amp;background/webfonts/fa-brands-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font&amp;background/webfonts/fa-regular-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font&amp;background/webfonts/fa-regular-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font&amp;background/webfonts/fa-regular-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font&amp;background/webfonts/fa-regular-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font&amp;background/webfonts/fa-regular-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font&amp;background/webfonts/fa-solid-900.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font&amp;background/webfonts/fa-solid-900.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font&amp;background/webfonts/fa-solid-900.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font&amp;background/webfonts/fa-solid-900.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font&amp;background/webfonts/fa-solid-900.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/position/01_固定定位.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/position/02_粘滞定位.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,14 +119,22 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1gSzsvjiM5vBjoSdcvZNDhBiIqy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -67,13 +150,15 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/JavaScript/exercise/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Bootstrap" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Bootstrap" />
+      <recent name="$PROJECT_DIR$/Jquery/pc项目/day01/work" />
       <recent name="$PROJECT_DIR$/JavaScript/exercise/img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -100,7 +185,7 @@
       <workItem from="1608707601363" duration="5000" />
       <workItem from="1608707650319" duration="2000" />
       <workItem from="1608713282470" duration="18402000" />
-      <workItem from="1609254693785" duration="4890000" />
+      <workItem from="1609254693785" duration="55039000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1598387062734</created>
@@ -116,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608395117960</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1">
+      <created>1609339890895</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1609339890895</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,7 +219,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>

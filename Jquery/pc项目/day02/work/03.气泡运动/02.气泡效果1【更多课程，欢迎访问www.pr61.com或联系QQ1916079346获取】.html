@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style type="text/css">
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        body{
+            background: grey;
+        }
+        #myCanvas{
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            margin: auto;
+
+            background: white;
+        }
+
+
+    </style>
+</head>
+<body>
+
+<canvas id="myCanvas" width="400" height="400"></canvas>
+
+</body>
+<script type="text/javascript">
+    window.onload = function () {
+        var myCanvas = document.getElementById('myCanvas');
+
+        var painting = myCanvas.getContext('2d');
+//        保存圆的数据信息   x y r
+        var arr = [];
+//        绘制圆形
+        setInterval(function () {
+            painting.clearRect(0,0,myCanvas.width,myCanvas.height)
+            for (var i = 0; i < arr.length; i++) {
+                painting.fillStyle = 'rgba('+arr[i].red+','+arr[i].green+','+arr[i].blue+','+arr[i].a+')'
+                painting.beginPath();
+                painting.arc(arr[i].x,arr[i].y,arr[i].r,0,2*Math.PI);
+                painting.fill();
+
+            }
+        },100)
+
+
+//      输出圆的信息
+        setInterval(function () {
+            var x=Math.floor(Math.random()*myCanvas.width);
+            var y=Math.floor(Math.random()*myCanvas.height);
+            var r=10;
+            var red=Math.floor(Math.random()*255);
+            var green=Math.floor(Math.random()*255);
+            var blue=Math.floor(Math.random()*255);
+            var a = 1;
+            arr.push({
+                x:x,
+                y:y,
+                r:r,
+                red:red,
+                green:green,
+                blue:blue,
+                a:a
+            })
+            console.log(arr)
+        },300)
+    };
+
+
+</script>
+</html>

@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Honeyfly</title>
+    <link rel="stylesheet" href="css/01.index.css">
+</head>
+<body>
+<div class="wrap">
+    <header id="header">
+        <div class="headerMain">
+            <h1 class="logo">
+                <a href="javascript:;"><img src="img/logo.png" alt=""></a>
+            </h1>
+
+            <nav class="nav">
+                <ul>
+                    <li>
+                        <a href="javascript:;">
+                            <div class="up">
+                                <img src="img/home_gruen.png" alt="">
+                            </div>
+
+                            <div class="down">
+                                <img src="img/home.png" alt="">
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="javascript:;">
+                            <div class="up">
+                                Course
+                            </div>
+
+                            <div class="down">
+                                Course
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="javascript:;">
+                            <div class="up">
+                                Works
+                            </div>
+
+                            <div class="down">
+                                Works
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="javascript:;">
+                            <div class="up">
+                                About
+                            </div>
+
+                            <div class="down">
+                                About
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="javascript:;">
+                            <div class="up">
+                                Team
+                            </div>
+
+                            <div class="down">
+                                Team
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+        <div class="arrow"></div>
+    </header>
+    <section id="content">
+        <ul class="list">
+            <li><div class="home">home</div></li>
+            <li><div class="course">Course</div></li>
+            <li><div class="works">Works</div></li>
+            <li><div class="about">About</div></li>
+            <li><div class="team">Team</div></li>
+        </ul>
+    </section>
+</div>
+<script type="text/javascript">
+ window.onload=function(){
+        var arrow = document.querySelector('#header .arrow');
+        var upNodes = document.querySelectorAll('#header .headerMain .nav ul li .up')
+        var liNodes = document.querySelectorAll('#header .headerMain .nav ul li')
+
+        function contentBind() {
+
+        }
+
+       //toububind
+       function headerBind(){
+            upNodes[0].style.width ='100%';
+            arrow.style.left = liNodes[0].getBoundingClientRect().left+
+                    liNodes[0].offsetWidth/2+'px';
+            for(var i = 0; i<liNodes.length; i++){
+                liNodes[i].index =i;
+                liNodes[i].onclick =function(){
+                    for(var j=0; j<upNodes.length; j++){
+                        upNodes[j].style.width ='';
+                    }
+
+                    upNodes[this.index].style.width ='100%';
+                    arrow.style.left=liNodes[this.index].getBoundingClientRect().left+
+                            liNodes[this.index].offsetWidth/2+'px'
+                }
+            }
+       }
+       headerBind()
+ }
+</script>
+</body>
+</html>
