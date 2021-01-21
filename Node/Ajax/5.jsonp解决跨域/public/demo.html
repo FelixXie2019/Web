@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script type="text/javascript" src="./js/jquery-1.12.4.js"></script>
+<button id="btn">点我</button>
+<script>
+    // $('#btn').click(()=>{
+    // let scriptNode=document.createElement('script');
+    // scriptNode.src='http://localhost:3000/test?callback=fun';
+    // $('body').append(scriptNode);
+    // })
+    // function fun(result){
+    //     console.log(`名字叫做${result.name},年龄为${result.age}`);
+    // }
+    //
+    $('#btn').click(()=>{
+    // $.ajax({
+    //     url:'http://localhost:3000/test',
+    //     method:'get',
+    //     dataType:'jsonp',
+    //     success:function(result){
+    //         console.log(`名字叫做${result.name},年龄为${result.age}`);
+    //     },
+    //     error:function(err){
+    //         console.log(err);
+    //     }
+    //     })
+        $.getJSON('http://localhost:3000/test?callback=?',function(result){
+            console.log(`名字叫做${result.name},年龄为${result.age}`);
+        })
+    })
+
+</script>
+</body>
+</html>

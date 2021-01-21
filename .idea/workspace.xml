@@ -20,271 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a6ff64d-fa52-4773-99a6-42fbdc699410" name="Default Changelist" comment="1">
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/1-bootstrap/1-响应式类.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/1-bootstrap/2-谷粒学院.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/1-bootstrap/3-浏览器博物馆.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/1-bootstrap/bootstrap.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/1-bootstrap/img/chrome-big.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/1-bootstrap/img/chrome-logo-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/1-bootstrap/img/chrome-logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/1-bootstrap/img/firefox-big.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/1-bootstrap/img/firefox-logo-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/1-bootstrap/img/firefox-logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/1-bootstrap/img/ie-big.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/1-bootstrap/img/ie-logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/1-bootstrap/img/opera-big.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/1-bootstrap/img/opera-logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/1-bootstrap/img/safari-big.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/1-bootstrap/img/safari-logo-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/1-bootstrap/img/safari-logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/1-bootstrap/imgs/angular.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/1-bootstrap/imgs/es6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/1-bootstrap/imgs/htmlcss.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/1-bootstrap/imgs/iphone_12_pro_us__e5oyysg4k0ya_large_2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/1-bootstrap/imgs/jquery.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/1-bootstrap/imgs/js.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/1-bootstrap/imgs/mongodb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/1-bootstrap/imgs/node.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/1-bootstrap/imgs/react.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/1-bootstrap/imgs/职业素质.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/2-less复习/css/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/2-less复习/css/app.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/2-less复习/css/app.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/2-less复习/less复习.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/2-less复习/review.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/.csscomb【更多课程，欢迎访问www.pr61.com或联系QQ1916079346获取】.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/alerts.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/badges.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/bootstrap.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/breadcrumbs.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/button-groups.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/buttons.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/carousel.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/close.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/code.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/component-animations.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/dropdowns.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/forms.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/glyphicons.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/grid.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/input-groups.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/jumbotron.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/labels.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/list-group.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/media.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/mixins.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/mixins/alerts【更多课程，欢迎访问www.pr61.com或联系QQ1916079346获取】.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/mixins/background-variant【更多课程，欢迎访问www.pr61.com或联系QQ1916079346获取】.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/mixins/border-radius【更多课程，欢迎访问www.pr61.com或联系QQ1916079346获取】.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/mixins/buttons【更多课程，欢迎访问www.pr61.com或联系QQ1916079346获取】.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/mixins/center-block【更多课程，欢迎访问www.pr61.com或联系QQ1916079346获取】.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/mixins/clearfix【更多课程，欢迎访问www.pr61.com或联系QQ1916079346获取】.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/mixins/forms【更多课程，欢迎访问www.pr61.com或联系QQ1916079346获取】.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/mixins/gradients【更多课程，欢迎访问www.pr61.com或联系QQ1916079346获取】.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/mixins/grid-framework【更多课程，欢迎访问www.pr61.com或联系QQ1916079346获取】.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/mixins/grid【更多课程，欢迎访问www.pr61.com或联系QQ1916079346获取】.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/mixins/hide-text【更多课程，欢迎访问www.pr61.com或联系QQ1916079346获取】.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/mixins/image【更多课程，欢迎访问www.pr61.com或联系QQ1916079346获取】.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/mixins/labels【更多课程，欢迎访问www.pr61.com或联系QQ1916079346获取】.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/mixins/list-group【更多课程，欢迎访问www.pr61.com或联系QQ1916079346获取】.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/mixins/nav-divider【更多课程，欢迎访问www.pr61.com或联系QQ1916079346获取】.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/mixins/nav-vertical-align【更多课程，欢迎访问www.pr61.com或联系QQ1916079346获取】.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/mixins/opacity【更多课程，欢迎访问www.pr61.com或联系QQ1916079346获取】.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/mixins/pagination【更多课程，欢迎访问www.pr61.com或联系QQ1916079346获取】.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/mixins/panels【更多课程，欢迎访问www.pr61.com或联系QQ1916079346获取】.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/mixins/progress-bar【更多课程，欢迎访问www.pr61.com或联系QQ1916079346获取】.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/mixins/reset-filter【更多课程，欢迎访问www.pr61.com或联系QQ1916079346获取】.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/mixins/reset-text【更多课程，欢迎访问www.pr61.com或联系QQ1916079346获取】.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/mixins/resize【更多课程，欢迎访问www.pr61.com或联系QQ1916079346获取】.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/mixins/responsive-visibility【更多课程，欢迎访问www.pr61.com或联系QQ1916079346获取】.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/mixins/size【更多课程，欢迎访问www.pr61.com或联系QQ1916079346获取】.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/mixins/tab-focus【更多课程，欢迎访问www.pr61.com或联系QQ1916079346获取】.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/mixins/table-row【更多课程，欢迎访问www.pr61.com或联系QQ1916079346获取】.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/mixins/text-emphasis【更多课程，欢迎访问www.pr61.com或联系QQ1916079346获取】.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/mixins/text-overflow【更多课程，欢迎访问www.pr61.com或联系QQ1916079346获取】.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/mixins/vendor-prefixes【更多课程，欢迎访问www.pr61.com或联系QQ1916079346获取】.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/modals.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/navbar.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/navs.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/normalize.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/pager.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/pagination.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/panels.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/popovers.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/print.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/progress-bars.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/responsive-embed.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/responsive-utilities.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/scaffolding.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/tables.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/theme.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/theme.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/thumbnails.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/tooltip.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/type.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/utilities.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/variables.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/bootstrap/wells.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/mine-grid/01-grid-1-12的拼接过程.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/mine-grid/01-grid-1-12的拼接过程.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/mine-grid/01-grid-1-12的拼接过程.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/mine-grid/grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/mine-grid/grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/mine-grid/grid.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/mine-grid/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/mine-grid/normalize.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/mine-grid/normalize.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/mine-grid/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/split/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/split/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/split/bootstrap.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/split/global.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/split/global.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/split/global.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/split/grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/split/grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/split/grid.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/split/mixin.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/split/mixin.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/split/mixin.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/split/mixins/grid.css【更多课程，欢迎访问www.pr61.com或联系QQ1916079346获取】.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/split/mixins/grid【更多课程，欢迎访问www.pr61.com或联系QQ1916079346获取】.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/split/mixins/grid【更多课程，欢迎访问www.pr61.com或联系QQ1916079346获取】.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/split/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/split/normalize.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/split/normalize.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/split/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/split/variable.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/split/variable.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/split/variable.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/3-栅格系统独立封装/栅格系统封装.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/浏览器博物馆.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/笔记.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day01/谷粒学院.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day02/01-像素/1-CSS像素.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day02/01-像素/2-css关系.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day02/01-像素/3-像素比.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day02/01-像素/4-图片的高清处理.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day02/01-像素/5-图片的高清处理.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day02/01-像素/image/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day02/01-像素/image/logo@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day02/01-像素/image/logo@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day02/02-视口/1-PC视口.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day02/02-视口/2-移动端视口.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day02/02-视口/3-理想视口.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day02/02-视口/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day02/03-缩放/1-PC端缩放.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day02/03-缩放/2-移动端缩放.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day02/03-缩放/images/guofucheng.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day02/03-缩放/images/liming.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day02/03-缩放/images/liudehua.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day02/03-缩放/images/zhangxueyou.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day02/04-viewport/1-viewport.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day02/05-移动端事件/1-事件复习.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day02/05-移动端事件/2-移动端4个事件.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day02/test.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day02/test.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day02/test.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/day02/笔记.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mobile/移动端.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/01_no_modular/01_全局function模式/module1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/01_no_modular/01_全局function模式/module2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/01_no_modular/01_全局function模式/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/01_no_modular/02_namespace模式/module1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/01_no_modular/02_namespace模式/module2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/01_no_modular/02_namespace模式/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/01_no_modular/03_IIFE模式/module.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/01_no_modular/03_IIFE模式/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/01_no_modular/04_IIFE模式增强/jquery-1.10.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/01_no_modular/04_IIFE模式增强/module1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/01_no_modular/04_IIFE模式增强/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/01_no_modular/05_现实的情况/demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/02_CommonJS-Node/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/02_CommonJS-Node/modules/module1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/02_CommonJS-Node/modules/module2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/02_CommonJS-Node/modules/module3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/02_CommonJS-Node/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/03_CommonJS-Browserify/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/03_CommonJS-Browserify/js/dist/boundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/03_CommonJS-Browserify/js/src/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/03_CommonJS-Browserify/js/src/module1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/03_CommonJS-Browserify/js/src/module2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/03_CommonJS-Browserify/js/src/module3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/03_CommonJS-Browserify/node_modules/uniq/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/03_CommonJS-Browserify/node_modules/uniq/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/03_CommonJS-Browserify/node_modules/uniq/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/03_CommonJS-Browserify/node_modules/uniq/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/03_CommonJS-Browserify/node_modules/uniq/test/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/03_CommonJS-Browserify/node_modules/uniq/uniq.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/03_CommonJS-Browserify/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/03_CommonJS-Browserify/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/04_AMD-RequireJS/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/04_AMD-RequireJS/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/04_AMD-RequireJS/js/libs/jquery-1.10.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/04_AMD-RequireJS/js/libs/require.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/04_AMD-RequireJS/js/modules/module1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/04_AMD-RequireJS/js/modules/module2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/05_CMD-SeaJS/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/05_CMD-SeaJS/js/libs/sea.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/05_CMD-SeaJS/js/modules/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/05_CMD-SeaJS/js/modules/module1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/05_CMD-SeaJS/js/modules/module2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/05_CMD-SeaJS/js/modules/module3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/05_CMD-SeaJS/js/modules/module4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/教程_笔记/0_node与npm(必看).md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/教程_笔记/1_模块化进化史.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/教程_笔记/2_CommonJS_Node模块化教程.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/教程_笔记/2_CommonJS内置关系.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/教程_笔记/3_CommonJS-Browserify模块化教程.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/教程_笔记/4_AMD-RequireJS模块化教程.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/教程_笔记/5_CMD-SeaJS模块化教程.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular/教程_笔记/6_ES6模块化教程.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/performance_stu/code/01_浏览器渲染原理/1_渲染基本过程/img/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/performance_stu/code/01_浏览器渲染原理/1_渲染基本过程/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/performance_stu/code/01_浏览器渲染原理/2_style样式渲染/img/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/performance_stu/code/01_浏览器渲染原理/2_style样式渲染/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/performance_stu/code/01_浏览器渲染原理/3_link样式渲染/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/performance_stu/code/01_浏览器渲染原理/3_link样式渲染/img/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/performance_stu/code/01_浏览器渲染原理/3_link样式渲染/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/performance_stu/code/01_浏览器渲染原理/4_js对渲染的影响/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/performance_stu/code/01_浏览器渲染原理/4_js对渲染的影响/img/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/performance_stu/code/01_浏览器渲染原理/4_js对渲染的影响/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/performance_stu/code/02_css 图层/01_layer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/performance_stu/code/02_css 图层/02_layer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/performance_stu/code/02_css 图层/03_layer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/performance_stu/code/02_css 图层/04_layer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/performance_stu/code/02_css 图层/05_layer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/performance_stu/code/02_css 图层/media/animation.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/performance_stu/code/03_重绘 &amp; 重排/01_transform.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/performance_stu/code/03_重绘 &amp; 重排/02_opactiy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/performance_stu/code/04_requestAnimationFrame/01_定时器动画.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/performance_stu/code/04_requestAnimationFrame/02_requestAnimationFrame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/performance_stu/code/05_函数防抖、函数节流/01_函数防抖.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/performance_stu/code/05_函数防抖、函数节流/02_函数节流.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/performance_stu/code/06_浏览器存储/01_sessionStorage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/performance_stu/code/06_浏览器存储/02_localStorage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/performance_stu/code/06_浏览器存储/03_数据同步1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/performance_stu/code/06_浏览器存储/03_数据同步2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/performance_stu/图示/01_web前后端整体图示.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/performance_stu/图示/02_浏览器渲染过程.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/performance_stu/图示/03_图层举例.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/performance_stu/图示/04_重绘重排举例.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/performance_stu/图示/05_H5页游示例.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/performance_stu/图示/06_重绘重排的代价.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/performance_stu/课件&amp;总结/01_浏览器功能与组成.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/performance_stu/课件&amp;总结/02_浏览器渲染引擎与阻塞.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/performance_stu/课件&amp;总结/03_图层与重绘重排.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/performance_stu/课件&amp;总结/04_CDN.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/performance_stu/课件&amp;总结/05_浏览器本地存储.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/performance_stu/课件&amp;总结/06_缓存机制.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/performance_stu/课件&amp;总结/07_缓存示意图.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/performance_stu/课件&amp;总结/备注-相关词汇.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Node/Ajax/5.jsonp解决跨域/public/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Node/day04/3.express服务器/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Node/day05/4.login&amp;register/router/LoginRegisterRouter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Node/day05/4.login&amp;register/router/UIRouter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VUE/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jquery/pc项目/jquery版本.html" beforeDir="false" afterPath="$PROJECT_DIR$/Jquery/pc项目/jquery版本.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -331,7 +73,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Modular/03_CommonJS-Browserify/js/src" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -342,20 +84,39 @@
       <recent name="$PROJECT_DIR$/JavaScript/exercise/img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Node/Ajax/5.jsonp解决跨域" />
       <recent name="$PROJECT_DIR$/Modular/03_CommonJS-Browserify" />
       <recent name="$PROJECT_DIR$/Mobile/day01" />
       <recent name="$PROJECT_DIR$/JS Advance/day01" />
       <recent name="$PROJECT_DIR$/HTML" />
-      <recent name="$PROJECT_DIR$/01_introduction" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Modular/02_CommonJS-Node/app.js" working-dir="$PROJECT_DIR$/Modular/02_CommonJS-Node">
+  <component name="RunManager" selected="Node.js.server.js (4)">
+    <configuration name="1.简单文件读取.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Node/day02/3.Node中的文件操作(读取)/1.简单文件读取.js" working-dir="$PROJECT_DIR$/Node/day02/3.Node中的文件操作(读取)">
+      <method v="2" />
+    </configuration>
+    <configuration name="server.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Node/day06/5.cookie(重要)/server.js" working-dir="$PROJECT_DIR$/Node/day06/5.cookie(重要)">
+      <method v="2" />
+    </configuration>
+    <configuration name="server.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Node/Ajax/1.原生ajax/server.js" working-dir="$PROJECT_DIR$/Node/Ajax/1.原生ajax">
+      <method v="2" />
+    </configuration>
+    <configuration name="server.js (3)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Node/Ajax/5.jsonp解决跨域/server.js" working-dir="$PROJECT_DIR$/Node/Ajax/5.jsonp解决跨域">
+      <method v="2" />
+    </configuration>
+    <configuration name="server.js (4)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Node/Ajax/7.三级联动菜单/server.js" working-dir="$PROJECT_DIR$/Node/Ajax/7.三级联动菜单">
+      <method v="2" />
+    </configuration>
+    <configuration name="server.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Node/day05/4.login&amp;register/server.js" working-dir="$PROJECT_DIR$/Node/day05/4.login&amp;register">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.app.js" />
+        <item itemvalue="Node.js.server.js (4)" />
+        <item itemvalue="Node.js.server.js (3)" />
+        <item itemvalue="Node.js.server.js (2)" />
+        <item itemvalue="Node.js.server.js (1)" />
+        <item itemvalue="Node.js.server.js" />
       </list>
     </recent_temporary>
   </component>
@@ -378,7 +139,8 @@
       <workItem from="1608707650319" duration="2000" />
       <workItem from="1608713282470" duration="18402000" />
       <workItem from="1609254693785" duration="55039000" />
-      <workItem from="1610098833401" duration="14352000" />
+      <workItem from="1610098833401" duration="18140000" />
+      <workItem from="1610883800822" duration="19967000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1598387062734</created>
@@ -401,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609339890895</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="init">
+      <created>1610638841526</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610638841526</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
