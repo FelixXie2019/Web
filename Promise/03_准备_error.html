@@ -55,15 +55,15 @@
   /* 2. 错误的处理 */
 
   /* 捕获error */
-  // try {
-  //   const e = {}
-  //   e()
-  // } catch (error) {
-  //   console.log(error.message)
-  //   console.log(error.stack)
-  // }
+  try {
+    const e = {}
+    e()
+  } catch (error) {
+    console.log(error.message)
+    console.log(error.stack)
+  }
 
-  // console.log('--------')
+  console.log('--------')
 
 
   /* 抛出error */
@@ -76,15 +76,12 @@
     }
   }
 
-
-  
-   
   try { // 捕获错误
     doThing()
   } catch (error) {
     alert(error.message)
   }
-   
+  
 
 
 </script>
