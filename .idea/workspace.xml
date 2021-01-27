@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a6ff64d-fa52-4773-99a6-42fbdc699410" name="Default Changelist" comment="1">
-      <change afterPath="$PROJECT_DIR$/Promise/lib/promise自定义.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Promise/09_自定义Promise.html" beforeDir="false" afterPath="$PROJECT_DIR$/Promise/09_自定义Promise.html" afterDir="false" />
-    </list>
+    <list default="true" id="4a6ff64d-fa52-4773-99a6-42fbdc699410" name="Default Changelist" comment="1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -138,7 +134,7 @@
       <workItem from="1610098833401" duration="18140000" />
       <workItem from="1610883800822" duration="20396000" />
       <workItem from="1611247129319" duration="5000" />
-      <workItem from="1611250517482" duration="6408000" />
+      <workItem from="1611250517482" duration="6651000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1598387062734</created>
@@ -196,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611250557139</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="init">
+      <created>1611643475506</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1611643475506</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
